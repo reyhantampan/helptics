@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="D:\ILKOM19\GASAL 2021\MOBILE APPLICATION\TemanWanda\app"
+    name=":app"
+    type="APP"
+    maven="TemanWanda:app:"
+    gradle="7.0.3"
+    buildFolder="build"
+    bootClassPath="D:\ILKOM19\GASAL_2021\MOBILE_APPLICATION\adt-bundle-windows-x86_64-20140702\sdk\platforms\android-31\android.jar;D:\ILKOM19\GASAL_2021\MOBILE_APPLICATION\adt-bundle-windows-x86_64-20140702\sdk\build-tools\30.0.2\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-31"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

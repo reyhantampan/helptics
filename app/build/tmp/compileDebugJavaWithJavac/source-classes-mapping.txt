@@ -1,0 +1,40 @@
+com/example/temanwanda/LoginActivity.java
+ com.example.temanwanda.LoginActivity
+ com.example.temanwanda.LoginActivity$1
+ com.example.temanwanda.LoginActivity$2
+com/example/temanwanda/RegisterActivity.java
+ com.example.temanwanda.RegisterActivity
+ com.example.temanwanda.RegisterActivity$1
+ com.example.temanwanda.RegisterActivity$2
+com/example/temanwanda/ui/akun/AkunFragment.java
+ com.example.temanwanda.ui.akun.AkunFragment
+com/example/temanwanda/ui/math/MathFragment.java
+ com.example.temanwanda.ui.math.MathFragment
+com/example/temanwanda/ui/eng/EnglishFragment.java
+ com.example.temanwanda.ui.eng.EnglishFragment
+com/example/temanwanda/Helpers/TemanDB.java
+ com.example.temanwanda.Helpers.TemanDB
+com/example/temanwanda/ui/home/HomeViewModel.java
+ com.example.temanwanda.ui.home.HomeViewModel
+com/example/temanwanda/ui/kom/KomFragment.java
+ com.example.temanwanda.ui.kom.KomFragment
+com/example/temanwanda/BuildConfig.java
+ com.example.temanwanda.BuildConfig
+com/example/temanwanda/MainActivity.java
+ com.example.temanwanda.MainActivity
+com/example/temanwanda/MathActivity.java
+ com.example.temanwanda.MathActivity
+com/example/temanwanda/MateriActivity.java
+ com.example.temanwanda.MateriActivity
+com/example/temanwanda/ui/materi/MateriFragment.java
+ com.example.temanwanda.ui.materi.MateriFragment
+ com.example.temanwanda.ui.materi.MateriFragment$1
+ com.example.temanwanda.ui.materi.MateriFragment$2
+ com.example.temanwanda.ui.materi.MateriFragment$3
+ com.example.temanwanda.ui.materi.MateriFragment$4
+com/example/temanwanda/ui/his/HisFragment.java
+ com.example.temanwanda.ui.his.HisFragment
+com/example/temanwanda/ui/home/HomeFragment.java
+ com.example.temanwanda.ui.home.HomeFragment
+ com.example.temanwanda.ui.home.HomeFragment$1
+ com.example.temanwanda.ui.home.HomeFragment$2

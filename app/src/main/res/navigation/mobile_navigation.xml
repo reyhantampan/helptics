@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.example.temanwanda.ui.home.HomeFragment"
+        android:label="@string/home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/navigation_materi"
+        android:name="com.example.temanwanda.ui.materi.MateriFragment"
+        android:label="@string/title_materi"
+        tools:layout="@layout/fragment_materi" />
+
+    <fragment
+        android:id="@+id/navigation_math"
+        android:name="com.example.temanwanda.ui.materi.MateriFragment"
+        android:label="@string/title_materi"
+        tools:layout="@layout/fragment_math" />
+
+    <fragment
+        android:id="@+id/navigation_kom"
+        android:name="com.example.temanwanda.ui.materi.MateriFragment"
+        android:label="@string/title_materi"
+        tools:layout="@layout/fragment_kom" />
+
+    <fragment
+        android:id="@+id/navigation_eng"
+        android:name="com.example.temanwanda.ui.materi.MateriFragment"
+        android:label="@string/title_materi"
+        tools:layout="@layout/fragment_eng" />
+
+    <fragment
+        android:id="@+id/navigation_his"
+        android:name="com.example.temanwanda.ui.materi.MateriFragment"
+        android:label="@string/title_materi"
+        tools:layout="@layout/fragment_his" />
+
+    <fragment
+        android:id="@+id/navigation_akun"
+        android:name="com.example.temanwanda.ui.akun.AkunFragment"
+        android:label="@string/title_akun"
+        tools:layout="@layout/fragment_akun" />
+
+</navigation>
